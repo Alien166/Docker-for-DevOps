@@ -1,10 +1,3 @@
-<p align="center">
-  <a target='_blank' href='https://github.com/MisterValiant'>
-    <img width=180px src="vertical-logo-monochromatic.webp" alt="Docker logo" title='Docker logo'/>
-  </a>
-</p>
-
-<br/>
 
 # 🐋 learn-docker
 > Docker is a platform for building, running, and shipping applications in a consistent manner, so if your application works on your development machine, it can work and function in the same way on other machines.
