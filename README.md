@@ -70,11 +70,6 @@ The main aim is to learn how to use Docker to consistently build, run, and ship 
 
 <br/>
 
-## 📷 Tutorial
-([https://www.youtube.com/watch?v=_uQrJ0TkZlc](https://www.youtube.com/watch?v=uMzhNtqbyag&list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ&index=7))
-</div>
-
-
 <br/>
 
 ## Contact
